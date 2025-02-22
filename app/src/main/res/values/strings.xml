@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">TourBuddy</string>
+    <string name="app_name" translatable="false">JubierTravels</string>
 
     <string name="login">LOGIN</string>
     <string name="register">SIGN UP</string>
@@ -141,7 +141,6 @@
     <string name="edit_review">Edit Review</string>
     <string name="delete_review">Delete Review</string>
     <string name="delete_review_message">Are you sure you want to delete review?</string>
-    <string name="default_web_client_id" translatable="false">851793428696-v5v6hrrjmq9hasohed3q94fgocnnkcgu.apps.googleusercontent.com</string>
     <string name="reset_password">Reset Password</string>
     <string name="forgot_password_no_qm">Forgot Password</string>
     <string name="user_verification">User Verification</string>

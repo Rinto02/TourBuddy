@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.tourbuddy.tourbuddy"
-    compileSdk = 34
+    namespace = "com.jubier.travels"
+    compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.tourbuddy.tourbuddy"
+        applicationId = "com.jubier.travels"
         minSdk = 30
-        targetSdk = 34
+        targetSdk = 33
         versionCode = 1
         versionName = "1.0"
 
